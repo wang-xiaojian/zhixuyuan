@@ -1,4 +1,4 @@
-package cn.zhixuyuan.zhixuyuan;
+package cn.zhixuyuan;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

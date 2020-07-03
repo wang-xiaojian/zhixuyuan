@@ -1,4 +1,4 @@
-package cn.zhixuyuan.zhixuyuan;
+package cn.zhixuyuan;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
